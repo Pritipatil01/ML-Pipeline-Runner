@@ -10,3 +10,11 @@ This project parses a JSON configuration file to build an end-to-end machine lea
 - Classification using selected models (e.g., RandomForestClassifier)
 - GridSearchCV for hyperparameter tuning
 - Model evaluation using accuracy and classification report
+
+## How to Run
+
+1. Launch google colab
+
+2. Open `solution.ipynb`.
+
+3. Run all cells to execute the pipeline.
